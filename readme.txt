@@ -1,3 +1,3 @@
 readme.txt
 Linea nueva
-Nueva linea que contiene un error
+Nueva linea ya no contiene error
